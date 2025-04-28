@@ -1,8 +1,8 @@
 # Divide and Conquer
 
-- Binay Search
-- Merge Sort
-- Quick Sort
+- Binay Search ✅
+- Merge Sort ✅
+- Quick Sort ✅
 - Max and Min element from array
 - Matrix multiplication chain
 - Floyed-Warshall Algorithm
