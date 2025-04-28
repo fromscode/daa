@@ -46,5 +46,7 @@ int main () {
         printf("Element %d found at %d position", key, res+1);
     }
 
+    free(arr);
+
     return 0;
 }
