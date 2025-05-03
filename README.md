@@ -6,9 +6,9 @@ The programs are organized based on major algorithmic paradigms and techniques t
 ## Syllabus Coverage
 
 ### Divide and Conquer
-- Binary Search
-- Merge Sort
-- Quick Sort
+- Binary Search ✅
+- Merge Sort    ✅
+- Quick Sort    ✅
 - Maximum and Minimum Element from Array
 - Matrix Multiplication Chain
 - Floyd-Warshall Algorithm
@@ -24,7 +24,7 @@ The programs are organized based on major algorithmic paradigms and techniques t
 - Graph Coloring (Hamiltonian)
 
 ### Greedy Method
-- Knapsack Problem
+- Knapsack Problem  ✅
 - Job Sequencing with Deadlines
 - Prim's Algorithm
 - Kruskal's Algorithm
